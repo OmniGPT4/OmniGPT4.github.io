@@ -10,9 +10,7 @@ OmniGPT4除了常规的文本对话，它还能理解用户输入的图像，例
 
 ### 我们的方法
 
-![pipeline]({{ '/assets/img/pipeline.jpg' | relative_url }})
-
-{: .mx-auto.d-block :}
+![pipeline]({{ '/assets/img/pipeline.jpg' | relative_url }}){: .mx-auto.d-block :}
 
 ### 视频结果
 
