@@ -11,7 +11,7 @@ My name is Inigo Montoya. I have the following qualities:
 
 What else do you need?
 
-![pipeline](/assets/img/pipeline.jpg){: .mx-auto.d-block :}
+![pipeline](/assets/img/path.jpg){: .mx-auto.d-block :}
 
 ### YouTube link
 
