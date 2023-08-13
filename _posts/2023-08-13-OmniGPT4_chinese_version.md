@@ -8,7 +8,7 @@ subtitle: 一个新的多模态大模型
 
 OmniGPT4除了常规的文本对话，它还能理解用户输入的图像，例如，可以实现对图像内容的描述、问答以及创作等等。
 
-![pipeline](../assets/img/pipeline.jpg){: .mx-auto.d-block :}
+![pipeline](/assets/img/pipeline.jpg){: .mx-auto.d-block :}
 
 ### YouTube link
 
