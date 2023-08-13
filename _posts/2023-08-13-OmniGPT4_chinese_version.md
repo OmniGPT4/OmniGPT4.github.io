@@ -4,14 +4,11 @@ title: OmniGPT4介绍 (中文版)
 subtitle: 一个新的多模态大模型
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+我们推出了一款多模态大模型，名为OmniGPT4。
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+OmniGPT4除了常规的文本对话，它还能理解用户输入的图像，例如，可以实现对图像内容的描述、问答以及创作等等。
 
-What else do you need?
-
-![pipeline](/assets/img/path.jpg){: .mx-auto.d-block :}
+![pipeline](assets/img/pipeline.jpg){: .mx-auto.d-block :}
 
 ### YouTube link
 
