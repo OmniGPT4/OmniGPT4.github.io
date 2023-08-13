@@ -28,7 +28,7 @@ Here's a table:
 
 How about a yummy crepe?
 
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
+![Crepe](https://github.com/yjzhao19981027/OmniGPT4.github.io/blob/master/assets/img/crepe.jpg)
 
 It can also be centered!
 
