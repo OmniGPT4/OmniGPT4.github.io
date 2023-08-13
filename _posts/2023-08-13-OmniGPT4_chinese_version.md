@@ -10,6 +10,7 @@ OmniGPT4除了常规的文本对话，它还能理解用户输入的图像，例
 
 ![pipeline]({{ '/assets/img/pipeline.jpg' | relative_url }}){: .mx-auto.d-block :}
 
-### YouTube link
+### YouTube Video
+[![OmniGPT4](https://i.ytimg.com/vi/3xsRZDhrTs8/maxresdefault.jpg)](https://youtu.be/3xsRZDhrTs8 "OmniGPT4")
 
 [https://youtu.be/3xsRZDhrTs8](https://youtu.be/3xsRZDhrTs8)
