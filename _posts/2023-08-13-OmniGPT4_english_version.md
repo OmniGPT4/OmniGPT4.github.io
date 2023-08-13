@@ -4,11 +4,11 @@ title: Introduction of OmniGPT4
 subtitle: a new multi-modal large-scale model
 ---
 
-We have launched a multimodal large-scale model called OmniGPT4. 
+We have launched a multi-modal large-scale model called OmniGPT4. 
 
 In addition to conventional text dialogue, OmniGPT4 can also understand image inputs from users, enabling image description, question answering, creative tasks, and more. 
 
-### Our Mehthod
+### Our Method
 
 ![pipeline]({{ '/assets/img/pipeline.jpg' | relative_url }}){: .mx-auto.d-block :}
 
