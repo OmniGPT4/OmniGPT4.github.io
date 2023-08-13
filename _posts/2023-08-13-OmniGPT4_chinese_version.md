@@ -13,6 +13,6 @@ What else do you need?
 
 ![pipeline](/assets/img/pipeline.jpg){: .mx-auto.d-block :}
 
-### Youtube link
+### YouTube link
 
 [https://youtu.be/3xsRZDhrTs8](https://youtu.be/3xsRZDhrTs8)
