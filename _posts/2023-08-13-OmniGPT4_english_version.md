@@ -10,7 +10,7 @@ In addition to conventional text dialogue, OmniGPT4 can also understand image in
 
 ### Our Method
 
-![pipeline]({{ '/assets/img/pipeline.jpg' | relative_url }}){: .mx-auto.d-block :}
+![pipeline]({{ '/assets/img/pipeline.png' | relative_url }}){: .mx-auto.d-block :}
 
 ### Video Results
 
