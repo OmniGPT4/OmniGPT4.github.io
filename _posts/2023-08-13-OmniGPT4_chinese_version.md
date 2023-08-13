@@ -1,6 +1,6 @@
 ---
 layout: page
-title: OmniGPT4介绍 (中文版)
+title: OmniGPT4介绍
 subtitle: 一个新的多模态大模型
 ---
 
