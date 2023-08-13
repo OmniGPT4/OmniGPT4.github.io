@@ -13,8 +13,7 @@ OmniGPT4除了常规的文本对话，它还能理解用户输入的图像，例
 ![pipeline]({{ '/assets/img/pipeline.jpg' | relative_url }}){: .mx-auto.d-block :}
 
 ### 视频结果
-[![OmniGPT4](https://i.ytimg.com/vi/3xsRZDhrTs8/maxresdefault.jpg)](https://youtu.be/3xsRZDhrTs8 "OmniGPT4")
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3xsRZDhrTs8" title="Result demo - Cube Padding for Weakly-Supervised Saliency Prediction in 360 Videos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [https://youtu.be/3xsRZDhrTs8](https://youtu.be/3xsRZDhrTs8)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rlR6fTvpWBg" title="Result demo - Cube Padding for Weakly-Supervised Saliency Prediction in 360 Videos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
