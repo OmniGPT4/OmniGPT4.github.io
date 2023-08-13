@@ -28,11 +28,11 @@ Here's a table:
 
 How about a yummy crepe?
 
-![Crepe](https://github.com/yjzhao19981027/OmniGPT4.github.io/blob/master/assets/img/crepe.jpg)
+![Crepe](/assets/img/crepe.jpg)
 
 It can also be centered!
 
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
+![Crepe](/assets/img/crepe.jpg){: .mx-auto.d-block :}
 
 Here's a code chunk:
 
