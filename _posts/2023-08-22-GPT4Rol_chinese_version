@@ -8,7 +8,7 @@ subtitle: 面向区域级图像理解的端到端多模态大模型
 
 ### Method
 
-![pipeline]({{ '/assets/img/pipeline_Rol.png' | relative_url }}){: .mx-auto.d-block :}
+![pipeline]({{ '/assets/img/pipeline_RoI.png' | relative_url }}){: .mx-auto.d-block :}
 
 ### Video Results
 
